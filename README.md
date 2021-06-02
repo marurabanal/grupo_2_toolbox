@@ -8,7 +8,7 @@
 ## Miembros del grupo
 #
 ### María Eugenia Rabanal
-> Mi nombre es María, tengo 33 años, vivo en San Isidro y tengo un bebé de un año. Soy licenciada en turismo y trabajo en una agencia de viajes.
+> Mi nombre es María, tengo 33 años, vivo en San Isidro y tengo un bebé de un año. Soy licenciada en turismo y trabajo en una agencia de viajes. Estudiando programacion!
 
 ### Mariano Moranchel
 > Hola soy Mariano, vivo en Mar del plata y soy un aficionado a todo lo que tenga pilas y/o se enchufe. Soy papa de Male y Paloma y trabajo en una empresa de telecomunicaciones como responsable de mercado.
